@@ -179,7 +179,12 @@ img {
 }
 
 .portrait {
-    padding-left: 29em;
+    padding-left: 33em;
+    margin-top: 4em;
+}
+
+.university {
+    padding-left: 33em;
     margin-top: 4em;
 }
 
