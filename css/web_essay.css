@@ -11,8 +11,6 @@
 body {
     width: 100%;
     margin: auto;
-    background: #ffffff;
-    color: rgb(0, 0, 0);
     font-family: 'Roboto', sans-serif;
 }
 
@@ -22,7 +20,6 @@ h2 {
     text-align: center;
     font-style: bold;
     font-size: 4em;
-    
 }
 
 p, blockquote {
@@ -136,7 +133,6 @@ img {
     display: block;
     padding: 0;
     max-width: 100%;
-    
 }
 
 .introduction {
